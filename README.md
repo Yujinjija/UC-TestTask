@@ -1,0 +1,1 @@
+# WordPress Theme - Universal College (UC)
